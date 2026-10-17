@@ -1,0 +1,14 @@
+{
+  "domain": "mova",
+  "name": "hacs-energy",
+  "codeowners": [
+    "@quintanliu"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/quintanliu/hacs-energy",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/quintanliu/hacs-energy/issues",
+  "requirements": [],
+  "version": "0.1.0"
+}
